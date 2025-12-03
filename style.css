@@ -1,0 +1,22 @@
+body {
+    background: #ee9fd4;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 16px;
+}
+.profile_header img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 100%;
+
+}
+
+.profile_header h1 {
+    color: #eb12a2;
+}
